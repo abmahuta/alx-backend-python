@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-'''waits for a random delay
-between 0 and max_delay
+'''Task 0.
 '''
 import asyncio
 import random
