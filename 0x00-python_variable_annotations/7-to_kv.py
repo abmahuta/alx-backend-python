@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-'''takes a string k and an int OR float v as arguments and returns a tuple of string and square of v.
+'''takes a string k and an int OR float v as arguments and returns a
+tuple of string and square of v.
 '''
 from typing import Union, Tuple
 
